@@ -1,0 +1,7 @@
+{"passwd":"abdcefasdad1A.", "value": true}
+{"passwd":"", "value": false}
+{"passwd":"Długie Hasło", "value": false}
+{"passwd":"****###./;$@", "value": false}
+{"passwd":"abasdadadasd$52", "value": false}
+{"passwd":"SADDAD5655#@##%#", "value": false}
+{"passwd":"SADDAD5655#@##%#", "value": false}
